@@ -1,0 +1,1 @@
+HTML code of an online store with sliders, drop-down windows and a selection of categories
